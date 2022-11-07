@@ -13,7 +13,7 @@ git clone https://github.com/dlstenbro/LUT.git
 
 ```bash
 cd LUT
-mkdir build
+mkdir build && cd build
 cmake ..
 ./lut_example
 ```
