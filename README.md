@@ -14,7 +14,7 @@ git clone https://github.com/dlstenbro/LUT.git
 ```bash
 cd LUT
 mkdir build && cd build
-cmake ..
+cmake .. && make
 ./lut_example
 ```
 
